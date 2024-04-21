@@ -23,13 +23,13 @@ This project is part of the Dev Init #2 initiative led by borntoDev, aimed at de
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Awassanan/product-management-system-unit-test.git
 ```
 
 2. Navigate into the project directory.
 
 ```bash
-cd <project_directory>
+cd product-management-system-unit-test
 ```
 
 3. Install the required dependencies using npm.
